@@ -51,6 +51,10 @@ map_seg = data.frame(x=unique(numbats$year),
                      yend=c(52,27,52,57,22,57,22))
 
 
+# numbat image
+img = 'https://www.nrmstrategy.com.au/sites/default/files/Numbat2.png'
+
+
 # plot
 ggplot(numbats) +
   geom_image(aes(x=year, y=seq, image=img), size=.07) +
