@@ -43,9 +43,9 @@ caption = paste0(
   "<span style='font-family:fb;font-size:24pt;color:white;'>&#xf09b;</span>",
   "<span style='font-family:opensans;font-size:25pt;color:white;'> taferreiraua</span>")
 
-text = paste0("<span style='font-size:75pt;color:white;'>**HIV generic drug<br>development on Europe**<br></span>", 
+text = paste0("<span style='font-size:75pt;color:white;'>**HIV generic drug<br>development in Europe**<br></span>", 
               "<span style='font-size:39pt;color:white;'>The development of generic drugs for the treatment<br></span>",
-              "<span style='font-size:39pt;color:white;'>of the **Human Immunodeficiency Virus (HIV)** on the<br></span>",
+              "<span style='font-size:39pt;color:white;'>of the **Human Immunodeficiency Virus (HIV)** in the<br></span>",
               "<span style='font-size:39pt;color:white;'>European continent is recent. Cheaper, the use of<br></span>",
               "<span style='font-size:39pt;color:white;'>generic drugs is recommended by the **World Health**<br></span>",
               "<span style='font-size:39pt;color:white;'>**Organization** to combat the spread of the virus in<br>developing countries.<br></span>",
@@ -95,4 +95,4 @@ ggplot(med) +
 
   
 ggview(units='px', width=3000, height=3900)
-ggsave(units='px', width=3000, height=3900, filename='13-03-2023-Drugs.png')
+ggsave(units='px', width=3000, height=3900, filename='13-03-2023-drugs.png')
