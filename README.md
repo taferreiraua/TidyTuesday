@@ -2,6 +2,9 @@
 Contribuições para a #TidyTuesday
 
 ## 2023
+### **Week 12: [R is the 8th most used programming language today](2023/W12/)**
+  ![Screenshot](2023/W12/21-03-2023-Lang.png)
+  
 ### **Week 11: [HIV generic drug development in Europe](2023/W11/)**
   ![Screenshot](2023/W11/13-03-2023-drugs.png)
   
