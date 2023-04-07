@@ -55,6 +55,8 @@ map_seg = data.frame(x=unique(numbats$year),
 img = 'https://www.nrmstrategy.com.au/sites/default/files/Numbat2.png'
 
 
+# design inspirado por: https://www.behance.net/gallery/1599947/Information-Design-a-NZ-Seafood-Posters
+
 # plot
 ggplot(numbats) +
   geom_image(aes(x=year, y=seq, image=img), size=.07) +
