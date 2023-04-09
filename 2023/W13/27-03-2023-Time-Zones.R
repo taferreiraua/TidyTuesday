@@ -24,6 +24,7 @@ title = paste0('<span style="font-family:raleway;font-size:55pt;">Living between
                '<span style="font-family:raleway;font-size:55pt;">and</span>',
                '<span style="font-family:raleway;font-size:85pt;"> TOMORROW</span>')
 
+# https://www.ef.com.br/blog/language/fatos-fusos-horarios/
 subtitle = paste0('<span style="font-family:raleway;font-size:27pt;">In the 1880s, an international convention decided that the zero point for measuring time<br>',
                   'zones would be in London, thus creating an imaginary vertical line that would cut the<br>',
                   'Earth from north to south. It was also created exactly on the opposite side of the 0º meridian,<br>',
