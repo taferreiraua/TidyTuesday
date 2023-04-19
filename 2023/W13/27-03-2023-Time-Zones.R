@@ -41,6 +41,7 @@ caption = paste0(
 
 
 # mapa
+# https://www.r-bloggers.com/2022/10/pacific-island-choropleth-map-by-ellis2013nz/
 mp1 <- fortify(maps::map(fill=TRUE, plot=FALSE)) |>
   as_tibble()
 mp2 <- mp1 |>
